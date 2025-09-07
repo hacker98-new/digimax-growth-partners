@@ -21,19 +21,19 @@ export const ServicesSection = ({ onSelectPackage }: ServicesSectionProps) => {
     {
       title: "Growth",
       minDeposit: "Rp 500.000",
-      dailyReturn: "Rp 23.000",
+      dailyReturn: "Rp 20.000",
       period: "30 hari",
-      totalReturn: "Rp 690.000",
-      roi: "38%",
+      totalReturn: "Rp 600.000",
+      roi: "20%",
       popular: true
     },
     {
       title: "Premium",
       minDeposit: "Rp 1.000.000",
-      dailyReturn: "Rp 43.000",
+      dailyReturn: "Rp 50.000",
       period: "30 hari",
-      totalReturn: "Rp 1.290.000",
-      roi: "29%",
+      totalReturn: "Rp 1.500.000",
+      roi: "50%",
       popular: false
     }
   ];
@@ -42,19 +42,19 @@ export const ServicesSection = ({ onSelectPackage }: ServicesSectionProps) => {
     {
       title: "Express Pro",
       minDeposit: "Rp 500.000",
-      dailyReturn: "Rp 88.000",
+      dailyReturn: "Rp 86.000",
       period: "7 hari",
-      totalReturn: "Rp 616.000",
-      roi: "23%",
+      totalReturn: "Rp 602.000",
+      roi: "20%",
       popular: false
     },
     {
       title: "Express Max",
       minDeposit: "Rp 1.000.000",
-      dailyReturn: "Rp 180.000",
+      dailyReturn: "Rp 215.000",
       period: "7 hari",
-      totalReturn: "Rp 1.260.000",
-      roi: "26%",
+      totalReturn: "Rp 1.505.000",
+      roi: "51%",
       popular: true
     }
   ];
